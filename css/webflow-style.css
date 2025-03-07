@@ -2108,6 +2108,7 @@ textarea.w-input, textarea.w-select {
 body {
   background-image: url("../images/main-20bg.jpg");
   background-position: 0 0;
+  background-repeat: no-repeat;
   background-size: 100vw 100vh;
   background-attachment: fixed;
 }
