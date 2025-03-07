@@ -236,7 +236,7 @@ img {
 }
 
 html.w-mod-touch * {
-  background-attachment: scroll !important;
+  background-attachment: fixed !important;
 }
 
 .w-block {
